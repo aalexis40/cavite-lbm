@@ -86,3 +86,6 @@ Trois boutons principaux pour visualiser :
 
 > Ces paramètres sont définis dans `main.py` mais peuvent être modifiés à la volée pour différentes simulations.
 
+![Simulation de la cavité chauffée](images/visu1.png)
+
+
